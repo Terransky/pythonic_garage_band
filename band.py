@@ -9,10 +9,23 @@ class Band:
     def __repr__(self):
         return f"Band instance. name={self.name}, members={self.members}"
 
+    def play_solos(self):
+        pass  # has band members in FIFO order play a solo
+
+    def to_list(self):
+        pass  # return list of bands previously instantiated
+
 
 class Musician:
     def __init__(self, name):
-        self.name = name
+        self.name =
+
+    def get_instrument(self):
+        return self.instrument  # return as string
+
+    def play_solo(self):
+        pass  # return a string matching test
+
 
 class Guitarist(Musician):
     def __init__(self, name, instrument):
