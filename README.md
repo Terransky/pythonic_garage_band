@@ -2,7 +2,7 @@
 ## Project: Pythonic Garage Band
 ### Author: Anthony Turinski
 ### Links and Resources
-[repo](https://github.com/Terransky/pythonic_garage_band#README.md)
+[repo](https://github.com/Terransky/pythonic_garage_band/tree/classes#readme)
 ### Setup
 .env requirements
 * pytest
